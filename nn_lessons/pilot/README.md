@@ -23,4 +23,5 @@
 
 ## Литература
 [Статья по автокодировщикам](https://habr.com/ru/post/331382/)<br>
+[Статья в документации keras](https://blog.keras.io/building-autoencoders-in-keras.html)<br>
 [Ссылка на ноутбук](https://colab.research.google.com/drive/1af-7gDTmXO4G4uH_Ed8RNNkG950_0v70?usp=sharing)
