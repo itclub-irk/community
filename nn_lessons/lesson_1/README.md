@@ -20,6 +20,8 @@
 ## Домашнее задание
 
 ## Литература
+[NumPy, пособие для новичков. Часть 1](https://habr.com/ru/post/121031/)<br>
+[Справочник по numpy (англ)](https://numpy.org/doc/stable/reference/)<br>
 [Пишем нейросеть на Python с нуля](https://proglib.io/p/pishem-neyroset-na-python-s-nulya-2020-10-07)<br>
 [Пишем простую нейронную сеть с использованием математики и Numpy](https://habr.com/ru/post/460589/)<br>
 [Давайте закодируем нейронную сеть в простой NumPy](https://machinelearningmastery.ru/lets-code-a-neural-network-in-plain-numpy-ae7e74410795/)
