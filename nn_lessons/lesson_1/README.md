@@ -18,6 +18,7 @@
 ## Видеозапись
 
 ## Домашнее задание
+[ДЗ](https://colab.research.google.com/drive/1iht2hNzaeNp5faew9hHRJBoIiSyvV2eM?usp=sharing)
 
 ## Литература
 [NumPy, пособие для новичков. Часть 1](https://habr.com/ru/post/121031/)<br>
