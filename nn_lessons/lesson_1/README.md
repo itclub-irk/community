@@ -17,6 +17,9 @@ Y = w*X + b
 
 ## Видеозапись
 
+## Ноутбук занятия
+[Первое занятие](https://colab.research.google.com/drive/1mQJz3WPY72GG61ko3ZumlcNxS3PA2j_t?usp=sharing)
+
 ## Домашнее задание
 [ДЗ](https://colab.research.google.com/drive/1iht2hNzaeNp5faew9hHRJBoIiSyvV2eM?usp=sharing)
 
