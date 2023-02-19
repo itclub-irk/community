@@ -13,7 +13,7 @@
 
 
 ## Видеозапись
-[Видео](https://youtu.be/PetVPTkpvuI)
+[Видео](https://youtu.be/1vQxiwGgySU)
 
 ## Литература
 [NumPy, пособие для новичков. Часть 1](https://habr.com/ru/post/121031/)<br>
