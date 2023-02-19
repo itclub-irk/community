@@ -16,7 +16,7 @@
 ## Видеозапись
 
 ## Ноутбук занятия
-
+[Занятие 3](https://colab.research.google.com/drive/1ywi05881dujfNwCvCNjrsnnLagpNzlzz?usp=sharing)
 ## Домашнее задание
 
 ## Литература
