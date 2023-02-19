@@ -18,6 +18,8 @@
 ## Ноутбук занятия
 [Занятие 3](https://colab.research.google.com/drive/1ywi05881dujfNwCvCNjrsnnLagpNzlzz?usp=sharing)
 ## Домашнее задание
+Создать свою полносвязную нейронную сеть для классификации датасета [Cifar-10](https://keras.io/api/datasets/cifar10/)
+
 
 ## Литература
 
