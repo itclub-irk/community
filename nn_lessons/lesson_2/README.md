@@ -18,7 +18,7 @@
 ## Литература
 [Пишем нейросеть на Python с нуля](https://proglib.io/p/pishem-neyroset-na-python-s-nulya-2020-10-07)<br>
 [Пишем простую нейронную сеть с использованием математики и Numpy](https://habr.com/ru/post/460589/)<br>
-[Давайте закодируем нейронную сеть в простой NumPy](https://machinelearningmastery.ru/lets-code-a-neural-network-in-plain-numpy-ae7e74410795/)
-[Видео с канала QWERTY "Зачем нужны эти производные?"](https://youtu.be/ZZMCDNAmcs4)
-[Математика Без Ху%!ни. Производная сложной функции.](https://youtu.be/BYKyB5UizTw)
-[Математика без Ху%!ни. Частные производные функции нескольких переменных. Градиент.](https://youtu.be/Azzc-LdrefM)
+[Давайте закодируем нейронную сеть в простой NumPy](https://machinelearningmastery.ru/lets-code-a-neural-network-in-plain-numpy-ae7e74410795/)<br>
+[Видео с канала QWERTY "Зачем нужны эти производные?"](https://youtu.be/ZZMCDNAmcs4)<br>
+[Математика Без Ху%!ни. Производная сложной функции.](https://youtu.be/BYKyB5UizTw)<br>
+[Математика без Ху%!ни. Частные производные функции нескольких переменных. Градиент.](https://youtu.be/Azzc-LdrefM)<br>
