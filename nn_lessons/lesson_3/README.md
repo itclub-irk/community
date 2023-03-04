@@ -14,6 +14,7 @@
 
 
 ## Видеозапись
+[Видеозапись вебинара](https://youtu.be/q_mgJfJbUBY)
 
 ## Ноутбук занятия
 [Занятие 3](https://colab.research.google.com/drive/1ywi05881dujfNwCvCNjrsnnLagpNzlzz?usp=sharing)
