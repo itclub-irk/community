@@ -15,7 +15,7 @@
 
 
 ## Видеозапись
-
+[Видеозапись](https://youtu.be/wOGd2cV4whM)
 ## Ноутбук занятия
 [Занятие 4](https://colab.research.google.com/drive/1jv7ldXcc2cKJRv94xJyxw8LsHwK6kNMU?usp=sharing)
 ## Домашнее задание
