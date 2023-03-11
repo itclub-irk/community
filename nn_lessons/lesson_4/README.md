@@ -22,6 +22,7 @@
 
 
 ## Литература
+[Наглядно о том, как работает свёрточная нейронная сеть](https://habr.com/ru/company/skillfactory/blog/565232/)<br>
 [Примеры архитектур сверточных сетей VGG-16 и VGG-19](https://proproprogs.ru/neural_network/primery-arhitektur-svertochnyh-setey-vgg16-i-vgg19)<br>
 [Что такое свёрточная нейронная сеть](https://habr.com/ru/post/309508/)<br>
 [Подробное руководство по свёрточным нейронным сетям](https://medium.com/nuances-of-programming/подробное-руководство-по-свёрточным-нейронным-сетям-подход-с-eli5-15d4d912f02f)
