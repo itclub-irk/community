@@ -17,6 +17,7 @@
 ## Видеозапись
 
 ## Ноутбук занятия
+[Занятие 4](https://colab.research.google.com/drive/1jv7ldXcc2cKJRv94xJyxw8LsHwK6kNMU?usp=sharing)
 ## Домашнее задание
 Создать свою сверточную нейронную сеть для классификации датасета [Cifar-10](https://keras.io/api/datasets/cifar10/)
 
