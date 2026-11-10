@@ -22,7 +22,7 @@
 
 - Telegram-чат: <https://t.me/itclub_irk>
 - Telegram-бот: <https://t.me/agent_intercom_bot> (@agent_intercom_bot)
-- Веб-сайт: <https://itclub-irk.ru/> (в разработке)
+- Веб-сайт: <https://itclub-irk.ru/>
 - Организация на GitHub: <https://github.com/itclub-irk>
 - Команда на GitFlic: <https://gitflic.ru/team/itclub> (резерв)
 
